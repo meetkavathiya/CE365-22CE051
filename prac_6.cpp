@@ -24,7 +24,7 @@ bool S()
        else{
         return false;
        }
-       
+
 
     }
     else if(input[index]=='a')
@@ -36,7 +36,7 @@ bool S()
     {
         return false;
     }
-    
+
 }
 
 bool L()
@@ -67,7 +67,7 @@ bool L_()
             return false;
         }
     }
-    else 
+    else
     {
         return true;
     }
